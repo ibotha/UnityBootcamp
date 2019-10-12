@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - playerCore
+  - bot
+  - flybot
+  - empty
+  - tile
+  - boss
+  - road
+  - tower
+  - spawner
+  - bomb
+  - Health
+  - Energy
+  - Range
+  - AttackTime
+  - Flying
+  - Damage
+  - Preview
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - floortiles
+  - bots
+  - turret
+  - ammo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: floortiles
+    uniqueID: 3805999465
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tower
+    uniqueID: 505596993
+    locked: 0
+  - name: ennemies
+    uniqueID: 1246008159
+    locked: 0
+  - name: ammo
+    uniqueID: 2353231093
+    locked: 0
+  - name: ui
+    uniqueID: 1580761947
+    locked: 0
