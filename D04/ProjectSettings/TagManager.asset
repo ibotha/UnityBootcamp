@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - moving
+  - shield
+  - level
+  - ring
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - enemy
+  - ghostRing
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3099263845
+    locked: 0
+  - name: Map
+    uniqueID: 921208119
+    locked: 0
+  - name: Characters
+    uniqueID: 388147803
+    locked: 0
+  - name: Front Map
+    uniqueID: 2582392771
+    locked: 0
